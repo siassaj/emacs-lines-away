@@ -3,7 +3,7 @@
 ;; Author: Siavash Sajjadi <sia.s.saj@gmail.com>
 ;; Maintainer: sia.s.saj@gmail.com
 ;; Keywords: convenience
-;; Version: 0.9x
+;; Version: 0.1.0
 
 ;; lines-away.el draws extremely heavily from linum.el 0.9x by Markus Triska
 ;; which is released under GNU GPL 3
@@ -32,7 +32,7 @@
 
 ;;; Code:
 
-(defconst lines-away-version "0.9x")
+(defconst lines-away-version "0.1.0")
 
 (defvar lines-away-overlays nil "Overlays used in this buffer.")
 (defvar lines-away-available nil "Overlays available for reuse.")
